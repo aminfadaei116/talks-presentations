@@ -7,9 +7,15 @@ This repository contains slides for various papers and projects that I have work
 
 * One Shot Free View Neural Talking Head Synthesis for Video Conferencing Presentation: [[Paper](https://arxiv.org/abs/2011.15126)]  [[Video](https://arxiv.org/abs/2011.15126)] [[Slide](https://arxiv.org/abs/2011.15126)]
 
-* [NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934): A brief description of the project and its objectives.
+* NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis: [[Paper](https://arxiv.org/abs/2011.15126)]  [[Video](https://arxiv.org/abs/2011.15126)] [[Slide](https://arxiv.org/abs/2011.15126)]
 
-* [Unpaired Image to Image Translation](./projects/project3): A brief description of the project and its objectives.
+* Unpaired Image to Image Translation: [[Paper](https://arxiv.org/abs/1703.10593)]  [[Video](https://youtu.be/wXQPglO9ZTo)] [[Slide](https://github.com/aminfadaei116/talks-presentations/blob/main/deep-learning/computer-vision/gan/Unpaired%20Image-to-Image%20Translation.pptx)]
+
+
+
+* [](https://arxiv.org/abs/2003.08934): A brief description of the project and its objectives.
+
+* [](./projects/project3): A brief description of the project and its objectives.
 
 
 ## Getting Started
