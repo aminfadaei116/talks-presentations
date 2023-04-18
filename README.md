@@ -5,7 +5,7 @@ This repository contains slides for various papers and projects that I have work
 
 ## Papers
 
-* [One Shot Free View Neural Talking Head Synthesis for Video Conferencing Presentation](https://arxiv.org/abs/2011.15126): [[video](https://arxiv.org/abs/2011.15126)] [slide](https://arxiv.org/abs/2011.15126) 
+* [One Shot Free View Neural Talking Head Synthesis for Video Conferencing Presentation](https://arxiv.org/abs/2011.15126): [[video](https://arxiv.org/abs/2011.15126)]  [[video](https://arxiv.org/abs/2011.15126)] [slide](https://arxiv.org/abs/2011.15126) 
 
 * [NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934): A brief description of the project and its objectives.
 
