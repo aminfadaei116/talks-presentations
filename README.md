@@ -11,6 +11,10 @@ This repository contains slides for various papers and projects that I have work
 
 * Unpaired Image to Image Translation: [[Paper](https://arxiv.org/abs/1703.10593)]  [[Video](https://youtu.be/wXQPglO9ZTo)] [[Slide](https://github.com/aminfadaei116/talks-presentations/blob/main/deep-learning/computer-vision/gan/Unpaired%20Image-to-Image%20Translation.pptx)]
 
+* implicit warping for animation with image sets: [[Paper](https://arxiv.org/abs/2210.01794)]  [[Video](https://youtu.be/6RblsC0NvqQ)] [[Slide](https://docs.google.com/presentation/d/1XOimDpiOwGhU1Xo26pMJ6agF4TcSz-Ri/edit?usp=sharing&ouid=110050138822207671276&rtpof=true&sd=true)]
+
+
+
 
 
 ## Getting Started
